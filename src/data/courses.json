@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Mathematics",
+    "instructor": "Dr. Smith"
+  },
+  {
+    "id": 2,
+    "name": "History",
+    "instructor": "Prof. Johnson"
+  },
+  {
+    "id": 3,
+    "name": "Physics",
+    "instructor": "Dr. John Hammond"
+  },
+  {
+    "id": 4,
+    "name": "Computer Science",
+    "instructor": "Dr. Robert Anderson"
+  },
+  {
+    "id": 5,
+    "name": "English",
+    "instructor": "Prof. Duane Olson"
+  }
+]
